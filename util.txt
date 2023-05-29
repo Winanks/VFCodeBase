@@ -1,3 +1,7 @@
  This is my first file to be cheecked in to the master branc
 
 This is the second revision to the file v1.2
+
+This is the third revision of the file... a new feature got added by the developr Chan...
+
+***********************************************
